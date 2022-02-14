@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GunungIndonesia</string>
+    <string name="text_judul_gunung">Judul Gunung</string>
+    <string name="text_detail_gunung">Detail Gunung</string>
+    <string name="text_mountain_location">Lokasi Gunung</string>
+    <string name="text_mountain_height">Tinggi Gunung</string>
+    <string name="text_mountain_detail">Detail Gunung</string>
+    <string name="title_homepage">Homepage</string>
+    <string name="title_about">About</string>
+    <string name="text_name">Jordie Juwono</string>
+    <string name="tv_email">jordie.juwono96@gmail.com</string>
+    <string name="text_dafpus">Sumber / Daftar Pustaka</string>
+    <string name="text_about">About</string>
+    <string name="text_dafpus_1">[1] Yulia M.Si. 2015. \"15 Daftar Gunung Tertinggi di Indonesia - Ketinggian dan Letaknya\", https://ilmugeografi.com/ilmu-bumi/gunung/gunung-tertinggi-di-indonesia, diakses pada 1 Februari 2022 pukul 12.20.</string>
+    <string name="text_dafpus_2">[2] Aninsi, Niken. 2021. \"11 Gunung Tertinggi di Indonesia, Termasuk Seven Summit Indonesia."\, https://katadata.co.id/intan/berita/6156ef662b7de/11-gunung-tertinggi-di-indonesia-termasuk-seven-summit-indonesia, diakses pada 1 Februari 2022 pukul 12.30</string>
+    <string name="text_dafpus_activity">Daftar Pustaka</string>
+</resources>
